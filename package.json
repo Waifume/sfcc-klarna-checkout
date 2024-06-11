@@ -9,7 +9,7 @@
         "eslint-plugin-sitegenesis": "~1.0.0",
         "eslint-config-airbnb-base": "^5.0.1",
         "eslint-plugin-import": "^1.12.0",
-        "sgmf-scripts": "^2.4.2",
+        "sgmf-scripts": "^3.0.0",
         "@tridnguyen/config": "^2.3.1",
         "eslint": "^3.2.2",
         "mocha": "^10.4.0",
